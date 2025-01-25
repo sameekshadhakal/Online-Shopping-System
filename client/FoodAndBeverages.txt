@@ -1,0 +1,10 @@
+Biscuit 50 200
+Chips 50 199
+Coffee 60 68
+Coke 50 95
+Juice 75 90
+Kurkure 75 99
+Noodles 50 300
+Pepsi 70 118
+Tea 40 200
+feb 0 5

@@ -1,0 +1,5 @@
+Eraser 15 100
+Notebook 50 150
+Pen 10 200
+Pencil 5 300
+Ruler 20 120

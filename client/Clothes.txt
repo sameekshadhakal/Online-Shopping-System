@@ -1,0 +1,5 @@
+Dress 1200 59
+Jacket 1500 50
+Jeans 1000 75
+Sweater 900 80
+T-Shirt 500 96

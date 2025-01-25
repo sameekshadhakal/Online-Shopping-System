@@ -1,0 +1,5 @@
+Charger 500 150
+Headphones 1500 80
+Laptop 40000 30
+Smartphone 15000 45
+Smartwatch 3000 40

@@ -1,0 +1,8 @@
+GameOfThrones 5 1990
+HarryPotter 15 1199
+MobyDick 7 950
+PercyJackson 10 900
+PrideAndPrejudice 14 850
+TheGreatGatsby 10 700
+TheHobbit 8 1483
+ToKillAMockingbird 12 800
